@@ -7,3 +7,4 @@
 * [ଫ୍ରଣ୍ଟ-ଏଣ୍ଡ୍ କୋଡ୍ |](https://github.com/xxai-art/web)
 * [ସମୁଦାୟ ଭାବରେ ସାଇଟ୍ ପାଇଁ ଭାଷା ପ୍ୟାକ୍ |](https://github.com/xxai-art/web/tree/main/i18n)
 * [ଲଗଇନ୍ ମଡ୍ୟୁଲ୍ ପାଇଁ ଭାଷା ପ୍ୟାକ୍ |](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [ୱେବସାଇଟ୍ ବହୁଭାଷୀ ଡକ୍ୟୁମେଣ୍ଟେସନ୍ |](https://github.com/xxai-doc)
